@@ -1,0 +1,7 @@
+{
+  "name": "ColmanVoyage",
+  "description": "A clever travel companion that suggests the perfect destinations based on your budget, preferred vibe, and real-time weather conditions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
